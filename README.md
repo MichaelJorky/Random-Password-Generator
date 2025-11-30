@@ -29,7 +29,7 @@ Aplikasi **Random Password Generator** adalah alat sederhana dan ringan untuk me
 
 ## 🖼️ Preview Aplikasi
 
-(Tambahkan screenshot aplikasi—seperti pada gambar di atas—ke README Anda.)
+![Preview Aplikasi](./assets/Preview.png)
 
 ## 🚀 Cara Menggunakan
 
